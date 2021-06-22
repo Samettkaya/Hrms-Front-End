@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Navi() {
+export default function Footer() {
     return (
         <div>
             
