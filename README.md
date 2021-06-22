@@ -1,3 +1,7 @@
+
+
+# HRMS Project UML Component Diagram
+![Test Image](https://github.com/Samettkaya/Hrms-Front-End/blob/master/UML-Component-Diagram.PNG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
